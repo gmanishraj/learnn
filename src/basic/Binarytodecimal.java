@@ -12,7 +12,7 @@ public class Binarytodecimal {
 //		b=c;
 //		System.out.println("A value is " +a);
 //		System.out.println("B value is " +b);
-		
+	//kjhkjhjkhuhu	
 		Scanner sc =new Scanner(System.in);
 		System.out.println("Enter the value");
 		int row =sc.nextInt();
